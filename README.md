@@ -1,3 +1,5 @@
 # Minesweeper
 
-Run the .pde file in processing or a processing editor!
+https://alexlo1.github.io/Minesweeper/
+
+Or, run the .pde file in processing!
