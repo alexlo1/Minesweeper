@@ -1,0 +1,70 @@
+.App-content {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  text-align: center;
+}
+
+.Board {
+  border-spacing: 0;
+}
+
+.Tile {
+  font-size: 18px;
+  width: 24px;
+  height: 24px;
+  background-color: #aaa;
+  color: black;
+  cursor: pointer;
+}
+
+.Tile:hover {
+  background-color: #ddd;
+}
+
+.Tile--revealed {
+  font-size: 18px;
+  width: 24px;
+  height: 24px;
+  background-color: #ccc;
+  color: black;
+  cursor: pointer;
+}
+
+.Info {
+  width: 360px;
+  margin: 5px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Controls {
+  width: 200px;
+  margin: 5px 0;
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+}
+
+.button {
+  font-size: 16px;
+  height: 20px;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #505868;
+}
+
+.text {
+  font-size: 20px;
+  line-height: 32px;
+}
