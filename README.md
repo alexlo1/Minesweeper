@@ -1,6 +1,6 @@
 # Minesweeper
 
-(https://alexlo1.github.io/Minesweeper/)[https://alexlo1.github.io/Minesweeper/]
+[https://alexlo1.github.io/Minesweeper/](https://alexlo1.github.io/Minesweeper/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
