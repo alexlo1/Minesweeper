@@ -44,8 +44,6 @@ const Board = ({ rows, cols, mines, gameOver, setGameOver, setGameWon, setMinesL
     }
 
     setMinesLeft(mines);
-
-    console.log(newBoard);
     return newBoard;   
   }
 
